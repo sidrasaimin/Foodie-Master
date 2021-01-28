@@ -1,0 +1,166 @@
+body{
+    margin: 0px;
+    background-color: #FFFBEF;
+}
+
+.flex{
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    align-items: center;
+}
+.bread{
+    display: none;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(40, 62, 83);
+    height: 56px;
+}
+
+
+.headbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    background-color: #94b637;
+    height: 100px;
+}
+
+.navfoo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(40, 62, 83);
+    height: 50px;
+}
+
+.navtitle{
+    color: #fff;
+    margin: 2px;
+    font-family: 'bebas neue';
+    font-weight: 300;
+}
+
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    background-color: #ffffff;
+    margin: 14px;
+    width: 13rem;
+    height: 260px;
+    box-shadow: 0px 0px 15px 6px #283e5310;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.cardimg{
+    margin: auto;
+    width: 80%;
+}
+
+.stitle{
+    font-family: 'montserrat';
+    color: #94b637;
+    font-size: 18px;
+}
+
+.subtitle{
+    font-family: 'montserrat';
+    font-weight: 200;
+    color: #2c4d6c;
+}
+
+.slot1{
+    width: 70%;
+}
+ 
+.slot2{
+    width: 30%;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 20px -19px;;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bar{
+    margin: 10px;
+    padding: 15px;
+    padding-top: 0px;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px 6px #283e5305;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.butt{
+    background: #94b637;
+    color: #ffffff;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.numinput{
+    height: 40px;
+    width: 50px;
+}
+
+
+@media only screen and (max-width: 968px) {
+
+    .subtitle{
+        font-size: calc(10px + 1vw);
+    }
+    .slot1{
+        width: 100%;
+    }
+    .slot2{
+        display: none;
+        width: 30%;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 20px -19px;;
+    }
+    .flex{
+        display: none;
+    }    
+    .bread{
+        display: flex;
+        margin: 0;
+        flex-direction: row;
+        align-items: center;
+        user-select:none;
+    }
+}

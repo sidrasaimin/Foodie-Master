@@ -1,0 +1,84 @@
+{
+    "hotelnames": [{
+            "image": "https://foodi56.000webhostapp.com/9.webp",
+            "hotel": "Parotha Center",
+            "htype": "Varities of parothas",
+            "stars": 4,
+            "Location": "DLW, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart.html"
+
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhhwoodlands.com%2Fimages%2Fhome%2Fslider%2Fimg-2.png&f=1&nofb=1",
+            "hotel": "Biryani Point",
+            "htype": "Tastiest Briyani Available",
+            "stars": 5,
+            "Location": "Nai Sadak, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart2.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/6.webp",
+            "hotel": "Dosa Hut",
+            "htype": "Varities of dosa",
+            "stars": 2,
+            "Location": "BHU, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart3.html"
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhhwoodlands.com%2Fimages%2Fmenus%2F1quick_bites.png&f=1&nofb=1",
+            "hotel": "Hotel South Indian",
+            "htype": "Vegeterian hotel",
+            "stars": 4,
+            "Location": "Gomti Nagar, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart4.html"
+        },
+        {
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kfc.de%2Ftypo3conf%2Fext%2Fkfc_templates%2FResources%2FPublic%2FFrontend%2Fimg%2Flanding%2Fsmartboxes%2Fbox-2.png&f=1&nofb=1",
+            "hotel": "KFC",
+            "htype": "Tasty fried chickens",
+            "stars": 4,
+            "Location": "Sigra, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart5.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/3.jpg",
+            "hotel": "Rahman Food Corner",
+            "htype": "Tasty varities of fast food",
+            "stars": 5,
+            "Location": "Mahmoorganj, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart6.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/4.jpg",
+            "hotel": "Pranav Hotel",
+            "htype": "Tastiest Indian foods66",
+            "stars": 4,
+            "Location": "Orderly Bazar, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart7.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/8.webp",
+            "hotel": "Mc'D",
+            "htype": "All dosas available",
+            "stars": 5,
+            "Location": "BHU Road, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart8.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/5.webp",
+            "hotel": "Hotel Pons",
+            "htype": "Vegeterian hotel",
+            "stars": 4,
+            "Location": "Assi Ghat, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart9.html"
+        },
+        {
+            "image": "https://foodi56.000webhostapp.com/2.jpg",
+            "hotel": "Mary Brown",
+            "htype": "Tasty bakery items",
+            "stars": 4,
+            "Location": "University Road, Varanasi",
+            "page": "https://foodi56.000webhostapp.com/cart10.html"
+        }
+    ]
+}

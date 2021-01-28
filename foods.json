@@ -1,0 +1,210 @@
+{
+    "Parotha Center": [{
+            "Food": "Malabar Parotha",
+            "Description": "Taste this crisp, chewy and flaky flatbread from Kerala",
+            "Rate": "100"
+        }, {
+            "Food": "Chilli Parotha",
+            "Description": "Taste the spicy, flaky parotha",
+            "Rate": "70"
+        }, {
+            "Food": "Bun Parotha",
+            "Description": "Version of malabari parotha made into a bun size bake.",
+            "Rate": "60"
+        }, {
+            "Food": "Poricha Parotha",
+            "Description": "The different parotha you will like.",
+            "Rate": "80"
+        }
+
+    ],
+
+    "Biryani Point": [{
+            "Food": "Dindigul Biryani",
+            "Description": "Taste the biryani with a little curd and lemon juice for a tangy taste",
+            "Rate": "190"
+        }, {
+            "Food": "Kutchi Biryani",
+            "Description": "Enjoy the extremely spicy biryani",
+            "Rate": "200"
+        },
+        {
+            "Food": "Chettinad Biryani",
+            "Description": "Taste the famous biryani in Tamil Nadu.",
+            "Rate": "100"
+        },
+        {
+            "Food": "Sindhi Biryani",
+            "Description": "The exotic and aromatic biryani.",
+            "Rate": "100"
+        }
+    ],
+
+    "Dosa Hut": [{
+            "Food": " Masala Dosa",
+            "Description": "Completely addictive and the most common among South Indian breakfast.",
+            "Rate": "140"
+        }, {
+            "Food": "Onion Dosa",
+            "Description": "Succulent and juicy onions lend a sweet tinge",
+            "Rate": "80"
+        },
+        {
+            "Food": "Paper Dosa",
+            "Description": "Very thin and super-crunchy form of dosa",
+            "Rate": "200"
+        },
+        {
+            "Food": " Plain Dosa",
+            "Description": "The basic and simple form of dosa.",
+            "Rate": "50"
+        }
+    ],
+
+    "Hotel SouthIndian": [{
+            "Food": "Idli",
+            "Description": "Hot steamed rice-cakes",
+            "Rate": "40"
+        }, {
+            "Food": "Uthappam",
+            "Description": "A dosa variety, which is slightly thick, fluffy, and soft.",
+            "Rate": "80"
+        },
+        {
+            "Food": "Paniyaram",
+            "Description": "Small tasty buns",
+            "Rate": "200"
+        },
+        {
+            "Food": " Plain Dosa",
+            "Description": "The basic and simple form of dosa.",
+            "Rate": "50"
+        }
+    ],
+
+
+    "KFC": [{
+            "Food": "Super Crispy Fried Chicken",
+            "Description": "It's the all-American meal.",
+            "Rate": "340"
+        }, {
+            "Food": "Chicken Popcorn",
+            "Description": "Popcorn chicken is a dish consisting of small, bite-sized pieces of chicken.",
+            "Rate": "180"
+        },
+        {
+            "Food": "Burger",
+            "Description": "Big burger for big mouths.",
+            "Rate": "200"
+        },
+        {
+            "Food": "Chicken Bucket",
+            "Description": "Bucket full of chickens",
+            "Rate": "50"
+        }
+    ],
+    "Rahman Parottas": [{
+            "Food": "Malabar Parotta",
+            "Description": "Taste this crisp, chewy and flaky flatbread from Kerala",
+            "Rate": "100"
+        }, {
+            "Food": "Chilli Parotta",
+            "Description": "Taste the spicy, flaky parotta",
+            "Rate": "70"
+        }, {
+            "Food": "Bun Parotta",
+            "Description": "Version of malabari parotta made into a bun size bake.",
+            "Rate": "60"
+        }, {
+            "Food": "Poricha Parotta",
+            "Description": "The different parotta you will like.",
+            "Rate": "80"
+        }
+
+    ],
+
+    "Pranav Hotel": [{
+            "Food": "Dindigul biryani",
+            "Description": "Taste the biryani with a little curd and lemon juice for a tangy taste",
+            "Rate": "190"
+        }, {
+            "Food": "Kutchi biryani",
+            "Description": "Enjoy the extremely spicy biryani",
+            "Rate": "200"
+        },
+        {
+            "Food": "Chettinad biryani",
+            "Description": "Taste the famous biryani in Tamil Nadu.",
+            "Rate": "100"
+        },
+        {
+            "Food": "Sindhi biryani",
+            "Description": "The exotic and aromatic biryani.",
+            "Rate": "100"
+        }
+    ],
+
+    "Dosa center": [{
+            "Food": " Masala Dosa",
+            "Description": "Completely addictive and the most common among South Indian breakfast.",
+            "Rate": "140"
+        }, {
+            "Food": "Onion Dosa",
+            "Description": "Succulent and juicy onions lend a sweet tinge",
+            "Rate": "80"
+        },
+        {
+            "Food": "Paper Dosa",
+            "Description": "Very thin and super-crunchy form of dosa",
+            "Rate": "200"
+        },
+        {
+            "Food": " Plain Dosa",
+            "Description": "The basic and simple form of dosa.",
+            "Rate": "50"
+        }
+    ],
+
+    "Hotel Pons": [{
+            "Food": "Idli",
+            "Description": "Hot steamed rice-cakes",
+            "Rate": "40"
+        }, {
+            "Food": "Uthappam",
+            "Description": "A dosa variety, which is slightly thick, fluffy, and soft.",
+            "Rate": "80"
+        },
+        {
+            "Food": "Paniyaram",
+            "Description": "Small tasty buns",
+            "Rate": "200"
+        },
+        {
+            "Food": " Plain Dosa",
+            "Description": "The basic and simple form of dosa.",
+            "Rate": "50"
+        }
+    ],
+
+
+    "Mary Brown": [{
+            "Food": "Super Crispy Fried Chicken",
+            "Description": "It's the all-American meal.",
+            "Rate": "340"
+        }, {
+            "Food": "Chicken Popcorn",
+            "Description": "Popcorn chicken is a dish consisting of small, bite-sized pieces of chicken.",
+            "Rate": "180"
+        },
+        {
+            "Food": "Burger",
+            "Description": "Big burger for big mouths.",
+            "Rate": "200"
+        },
+        {
+            "Food": "Chicken Bucket",
+            "Description": "Bucket full of chickens",
+            "Rate": "50"
+        }
+    ]
+}

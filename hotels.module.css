@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    background-color: #FFFBEF;
+}
+
+.flex{
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(40, 62, 83);
+    height: 8%;
+}
+
+.bread{
+    display: none;
+}
+
+.navfoo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(40, 62, 83);
+    height: 8%;
+    margin-top: 20px;
+}
+
+.navtitle{
+    color: #fff;
+    margin: 2px;
+    font-family: 'bebas neue';
+    font-weight: 300;
+}
+
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.container{
+    height: 100vh;
+}
+
+.box1{
+    background-color: #FFFBEF;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    background-color: #ffffff;
+    margin: 14px;
+    width: 13rem;
+    height: 260px;
+    box-shadow: 0px 0px 15px 6px #283e530c;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.cardimg{
+    margin: auto;
+    width: 80%;
+}
+
+.stitle{
+    font-family: 'montserrat';
+    color: #94b637;
+    font-size: 18px;
+}
+
+.subtitle{
+    font-family: 'montserrat';
+    font-weight: 200;
+    color: #2c4d6c;
+    padding: 0px;
+    margin: 2px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 568px) {
+    .slot1{
+        width: 100%;
+    }
+    .slot2{
+        display: none;
+        width: 30%;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 20px -19px;;
+    }
+    .flex{
+        display: none;
+    }    
+    .cardimg{
+        margin: auto;
+        width: 65%;
+    }
+    .bread{
+        display: flex;
+        margin: 0;
+        flex-direction: row;
+        align-items: center;
+        user-select:none;
+    }
+    .card{
+        background-color: #ffffff;
+        margin: 14px;
+        width: 75%;
+        height: 66vw;
+        box-shadow: 0px 0px 15px 6px #283e530c;
+        border-radius: 16px;
+        padding: 20px;
+    }
+
+    .stitle{
+        font-family: 'montserrat';
+        color: #94b637;
+        font-size: 4vw;
+    }
+
+    .subtitle{
+        font-family: 'montserrat';
+        font-weight: 200;
+        color: #2c4d6c;
+        font-size: 4vw;
+    }
+}
